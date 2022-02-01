@@ -1,2 +1,3 @@
 # mapview-y-mapedit
 resumen de la exposicion 
+En nuestra exposicion hablamos sobre LAs librerias de Mapview y Mapedit la cual la libreria de Mapview proporciona funciones para crear visualizaciones interactivas de datos espacialñes de forma muy rapida y cómoda  con el objetivo de crear rapidamente mapas interactivos. La funcion mas importante es mapview() y esta se utiliza para generar los mapas. La libreria de Mapedit se usa para poder dibujar y editar o tambien eliminar caracteristicas, a la vez seleccion y consulta las caracteristicas de un mapa y tambien para crear atributos. esta libreria nos es util para multiples trabajos geoespaciales. 
